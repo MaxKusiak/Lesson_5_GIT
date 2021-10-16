@@ -4,3 +4,14 @@ h1{
 h2{
     text-align: center;
 }
+.span{
+    color: red;
+}
+p{
+    border-left-style: groove;
+    border-left-width: 5px;
+    padding: 0 15px;
+}
+p:hover{
+    border-left-color: red;
+}
